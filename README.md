@@ -13,4 +13,4 @@
 #### Another game is GUI : a racecar game using pygame module 
 > Note : pip install pygame 
 
->ALL CODE ARE SELF EXPLANATORY VIA COMMENTS
+
