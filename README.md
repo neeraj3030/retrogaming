@@ -2,7 +2,7 @@
 
 # This repo contains three different games
 
-> FantasyCricket game is in Cricket folder
+> FantasyCricket game is in Cricket folder, is game developed using QT.
 
 
 > tictac.py is text-based game using colorama,itertools python modules.
